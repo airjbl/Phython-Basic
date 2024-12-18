@@ -124,9 +124,45 @@
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
 
 
-print("안녕하세요, 이름을 입력해주세요.")
-name=input()
-print("환영합니다", name," 님 나이를입력해주세요.")    # ,=YOU NEED THIS COMMA TO PUT THE NAME 
-                                                    # always put name 
-                                                    # 콤마 무조건 사용하기, 문자와숫자를혼합 "  " 를 같이씀
-                                                    #
+# print("안녕하세요, 이름을 입력해주세요.")
+# name=input()
+
+# print("환영합니다", name," 님 나이를입력해주세요.")    # ,=YOU NEED THIS COMMA TO PUT THE NAME 
+# age=input()                                            # input() is always 문자 so convert it to 숫자 by using int() and chnage it by put a=in(a)
+# age=int(age)                                        # always put name 
+# year=2024-age                                                 # 콤마 무조건 사용하기, 문자와숫자를혼합 "  " 를 같이씀
+                                                  
+
+# print(year,"년에 태어나셧네요!키를 입력해주세요.")   
+# height=int(input())               #or you can use height=int(input())
+# total=200-height
+
+# print("2m까지",total,"cm 남았네요.")
+
+
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
+
+
+# + 더하기
+# - 빼기
+# * 곱하기
+# / 나누기
+# // 몫(정수로 나옴 for example 10/2=5.0 and you only get the result no 나머지)
+# % 나머지(only 나머지)
+# ** 제곱
+
+# a=10
+# b=3
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+# print(a//b)
+# print(a%b)
+# print(a**b)
+
+
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
+
+
+
